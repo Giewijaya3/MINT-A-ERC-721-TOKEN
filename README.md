@@ -9,7 +9,7 @@ link : [Just Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc721-mint-token.git
+git clone https://github.com/Giewijaya3/MINT-A-ERC-721-TOKEN.git
 ```
 
 ```
