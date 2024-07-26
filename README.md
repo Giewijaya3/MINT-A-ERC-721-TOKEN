@@ -1,6 +1,5 @@
 # Swisstronik MINT-A-ERC-721-TOKEN
 
-link : [Just Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 
 
